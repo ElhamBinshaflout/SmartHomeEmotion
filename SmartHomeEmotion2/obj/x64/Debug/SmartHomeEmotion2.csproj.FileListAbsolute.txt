@@ -1,0 +1,9 @@
+C:\Users\Elham Binshaflout\source\repos\SmartHomeEmotion2\SmartHomeEmotion2\obj\x64\Debug\SmartHomeEmotion2.csprojAssemblyReference.cache
+C:\Users\Elham Binshaflout\source\repos\SmartHomeEmotion2\SmartHomeEmotion2\obj\x64\Debug\App.g.i.cs
+C:\Users\Elham Binshaflout\source\repos\SmartHomeEmotion2\SmartHomeEmotion2\obj\x64\Debug\App.g.cs
+C:\Users\Elham Binshaflout\source\repos\SmartHomeEmotion2\SmartHomeEmotion2\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Elham Binshaflout\source\repos\SmartHomeEmotion2\SmartHomeEmotion2\obj\x64\Debug\MainPage.g.cs
+C:\Users\Elham Binshaflout\source\repos\SmartHomeEmotion2\SmartHomeEmotion2\obj\x64\Debug\App.xaml
+C:\Users\Elham Binshaflout\source\repos\SmartHomeEmotion2\SmartHomeEmotion2\obj\x64\Debug\MainPage.xaml
+C:\Users\Elham Binshaflout\source\repos\SmartHomeEmotion2\SmartHomeEmotion2\obj\x64\Debug\App.xbf
+C:\Users\Elham Binshaflout\source\repos\SmartHomeEmotion2\SmartHomeEmotion2\obj\x64\Debug\MainPage.xbf

@@ -1,17 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System.Runtime.InteropServices.WindowsRuntime;
-using Windows.Foundation;
-using Windows.Foundation.Collections;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
-using Windows.UI.Xaml.Controls.Primitives;
-using Windows.UI.Xaml.Data;
-using Windows.UI.Xaml.Input;
-using Windows.UI.Xaml.Media;
-using Windows.UI.Xaml.Navigation;
 using Windows.Media.Capture;
 using Windows.Storage;
 using Windows.Graphics.Imaging;
@@ -22,12 +12,13 @@ using Microsoft.ProjectOxford.Common.Contract;
 using Windows.Media.Core;
 using Windows.Media.Playback;
 using Microsoft.ProjectOxford.Face;
-using Microsoft.ProjectOxford.Face.Contract;
-using Plugin.Connectivity;
 using System.Threading.Tasks;
-using System.Diagnostics.Contracts;
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
+// Author: Elham Binshaflout , email: e.binshaflout.16@ucl.ac.uk 
+/*References:
+ - Emotion detection : https://msdn.microsoft.com/en-us/magazine/mt742868.aspx
+*/
 namespace SmartHomeEmotion2
 {
     /// <summary>
