@@ -13,6 +13,8 @@ using Windows.Media.Core;
 using Windows.Media.Playback;
 using Microsoft.ProjectOxford.Face;
 using System.Threading.Tasks;
+using Windows.Foundation;
+using System.IO;
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
 // Author: Elham Binshaflout , email: e.binshaflout.16@ucl.ac.uk 
